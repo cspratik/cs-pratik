@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Pratik K Shah, Practicing Company Secretaries</title>
-    <link>//localhost:1313/services/</link>
+    <link>//localhost:52473/services/</link>
     <description>Recent content in Services on Pratik K Shah, Practicing Company Secretaries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:52473/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Company Incorporation &amp; Startup Advisory</title>
-      <link>//localhost:1313/services/incorporation/</link>
+      <link>//localhost:52473/services/incorporation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/incorporation/</guid>
+      <guid>//localhost:52473/services/incorporation/</guid>
       <description>End-to-end support for registering companies, LLPs, and startups across India.</description>
     </item>
     <item>
       <title>Corporate Compliance &amp; Annual Filings</title>
-      <link>//localhost:1313/services/corporate-compliance/</link>
+      <link>//localhost:52473/services/corporate-compliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/corporate-compliance/</guid>
+      <guid>//localhost:52473/services/corporate-compliance/</guid>
       <description>Stay on top of ROC filings, board meetings, and statutory registers with ease.</description>
     </item>
     <item>
       <title>FEMA &amp; RBI Compliance for Foreign Investments</title>
-      <link>//localhost:1313/services/fema-compliance/</link>
+      <link>//localhost:52473/services/fema-compliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/fema-compliance/</guid>
+      <guid>//localhost:52473/services/fema-compliance/</guid>
       <description>Advising on FDI, ODI, and cross-border transactions under FEMA and RBI regulations.</description>
     </item>
     <item>
       <title>Corporate Governance &amp; Secretarial Audit</title>
-      <link>//localhost:1313/services/corporate-governance/</link>
+      <link>//localhost:52473/services/corporate-governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/corporate-governance/</guid>
+      <guid>//localhost:52473/services/corporate-governance/</guid>
       <description>Enhancing transparency, accountability, and compliance for listed and large companies.</description>
     </item>
     <item>
       <title>Corporate Law Advisory &amp; Governance Best Practices</title>
-      <link>//localhost:1313/services/corporate-law-advisory/</link>
+      <link>//localhost:52473/services/corporate-law-advisory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/corporate-law-advisory/</guid>
+      <guid>//localhost:52473/services/corporate-law-advisory/</guid>
       <description>Expert guidance on Companies Act, SEBI regulations, and governance frameworks.</description>
     </item>
     <item>
       <title>Mergers, Acquisitions &amp; Restructuring</title>
-      <link>//localhost:1313/services/mergers-restructuring/</link>
+      <link>//localhost:52473/services/mergers-restructuring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/mergers-restructuring/</guid>
+      <guid>//localhost:52473/services/mergers-restructuring/</guid>
       <description>End-to-end legal and compliance support for business restructuring and growth.</description>
     </item>
   </channel>
