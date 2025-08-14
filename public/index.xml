@@ -2,101 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Pratik K Shah, Practicing Company Secretaries</title>
-    <link>//localhost:52473/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Homepage on Pratik K Shah, Practicing Company Secretaries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 13:44:55 +1000</lastBuildDate>
-    <atom:link href="//localhost:52473/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peter Van Eijk</title>
-      <link>//localhost:52473/team/peter-van-eijk/</link>
+      <link>//localhost:1313/team-disabled/pratik-shah/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>//localhost:52473/team/peter-van-eijk/</guid>
+      <guid>//localhost:1313/team-disabled/pratik-shah/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;&#xA;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Company Incorporation &amp; Startup Advisory</title>
-      <link>//localhost:52473/services/incorporation/</link>
+      <link>//localhost:1313/services/incorporation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/services/incorporation/</guid>
+      <guid>//localhost:1313/services/incorporation/</guid>
       <description>End-to-end support for registering companies, LLPs, and startups across India.</description>
     </item>
     <item>
       <title>Sage Kirk</title>
-      <link>//localhost:52473/team/sage-kirk/</link>
+      <link>//localhost:1313/team-disabled/charmi-kotecha/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>//localhost:52473/team/sage-kirk/</guid>
+      <guid>//localhost:1313/team-disabled/charmi-kotecha/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Corporate Compliance &amp; Annual Filings</title>
-      <link>//localhost:52473/services/corporate-compliance/</link>
+      <link>//localhost:1313/services/corporate-compliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/services/corporate-compliance/</guid>
+      <guid>//localhost:1313/services/corporate-compliance/</guid>
       <description>Stay on top of ROC filings, board meetings, and statutory registers with ease.</description>
     </item>
     <item>
-      <title>Mike Vance</title>
-      <link>//localhost:52473/team/mike-vance/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
-      <guid>//localhost:52473/team/mike-vance/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Robert Johnson</title>
-      <link>//localhost:52473/team/robert-johnson/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      <guid>//localhost:52473/team/robert-johnson/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>FEMA &amp; RBI Compliance for Foreign Investments</title>
-      <link>//localhost:52473/services/fema-compliance/</link>
+      <link>//localhost:1313/services/fema-compliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/services/fema-compliance/</guid>
+      <guid>//localhost:1313/services/fema-compliance/</guid>
       <description>Advising on FDI, ODI, and cross-border transactions under FEMA and RBI regulations.</description>
     </item>
     <item>
-      <title>Tamara Ells</title>
-      <link>//localhost:52473/team/tamara-ells/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
-      <guid>//localhost:52473/team/tamara-ells/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Corporate Governance &amp; Secretarial Audit</title>
-      <link>//localhost:52473/services/corporate-governance/</link>
+      <link>//localhost:1313/services/corporate-governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/services/corporate-governance/</guid>
+      <guid>//localhost:1313/services/corporate-governance/</guid>
       <description>Enhancing transparency, accountability, and compliance for listed and large companies.</description>
     </item>
     <item>
       <title>Corporate Law Advisory &amp; Governance Best Practices</title>
-      <link>//localhost:52473/services/corporate-law-advisory/</link>
+      <link>//localhost:1313/services/corporate-law-advisory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/services/corporate-law-advisory/</guid>
+      <guid>//localhost:1313/services/corporate-law-advisory/</guid>
       <description>Expert guidance on Companies Act, SEBI regulations, and governance frameworks.</description>
     </item>
     <item>
       <title>Mergers, Acquisitions &amp; Restructuring</title>
-      <link>//localhost:52473/services/mergers-restructuring/</link>
+      <link>//localhost:1313/services/mergers-restructuring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/services/mergers-restructuring/</guid>
+      <guid>//localhost:1313/services/mergers-restructuring/</guid>
       <description>End-to-end legal and compliance support for business restructuring and growth.</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:52473/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:52473/images/logo/logo.svg&#34; alt=&#34;About Us&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Pratik K Shah, Practicing Company Secretaries, is a leading CS firm in Mumbai offering corporate compliance, governance, and advisory services PAN India. Established in 2013 by Mr. Pratik K Shah, who brings over 14 years of expertise (including two years with one of India’s largest conglomerates), we deliver practical, business-focused solutions.&lt;/p&gt;&#xA;&lt;p&gt;As a technology-driven Company Secretary firm in India, we provide end-to-end compliance management, corporate governance advisory, and regulatory filings to keep businesses legally sound, risk-free, and ready for growth. Our deep knowledge of corporate laws and statutory requirements ensures clients operate with confidence, efficiency, and full compliance.&lt;/p&gt;</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/logo/logo.svg&#34; alt=&#34;About Us&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Pratik K Shah, Practicing Company Secretaries, is a leading CS firm in Mumbai offering corporate compliance, governance, and advisory services PAN India. Established in 2013 by Mr. Pratik K Shah, who brings over 14 years of expertise (including two years with one of India’s largest conglomerates), we deliver practical, business-focused solutions.&lt;/p&gt;&#xA;&lt;p&gt;As a technology-driven Company Secretary firm in India, we provide end-to-end compliance management, corporate governance advisory, and regulatory filings to keep businesses legally sound, risk-free, and ready for growth. Our deep knowledge of corporate laws and statutory requirements ensures clients operate with confidence, efficiency, and full compliance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>//localhost:52473/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:52473/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description></description>
     </item>
   </channel>
