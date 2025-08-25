@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: true
 
 # Setting up an Environment for your business
 
-As a Company Secretary Firm In Mumbai, CS Firm In Mumbai, We help you to set up your business with best choice of an entity and with best compliance practices
+As a Company Secretary Firm In Mumbai, We help you to set up your business with best choice of an entity and with best compliance practices

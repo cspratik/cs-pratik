@@ -72,7 +72,7 @@ title = "Pratik K Shah, Practicing Company Secretaries"
 
   [[menu.main]]
     name = "Learning Center"
-    url = "https://learn.cspratik.com"
+    url = "https://learn.cspratik.com/docs/welcome"
     weight = 5
 
   # Footer Menu

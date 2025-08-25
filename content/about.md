@@ -4,7 +4,7 @@ title: 'About'
 
 ![About Us](/images/logo/logo.svg)
 
-Pratik K Shah, Practicing Company Secretaries, is a leading CS firm in Mumbai offering corporate compliance, governance, and advisory services PAN India. Established in 2013 by Mr. Pratik K Shah, who brings over 14 years of expertise (including two years with one of India’s largest conglomerates), we deliver practical, business-focused solutions.
+Pratik K Shah, Practicing Company Secretaries, is a leading Peer Reviewed CS firm in Mumbai offering corporate compliance, governance, and advisory services PAN India. Established in 2013 by Mr. Pratik K Shah, who brings over 14 years of expertise (including two years with one of India’s largest conglomerates), we deliver practical, business-focused solutions.
 
 As a technology-driven Company Secretary firm in India, we provide end-to-end compliance management, corporate governance advisory, and regulatory filings to keep businesses legally sound, risk-free, and ready for growth. Our deep knowledge of corporate laws and statutory requirements ensures clients operate with confidence, efficiency, and full compliance.
 

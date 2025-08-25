@@ -26,6 +26,8 @@
     <loc>//localhost:1313/team-disabled/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/team/pratik-shah/</loc>
+  </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
@@ -37,5 +39,7 @@
     <loc>//localhost:1313/services/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/team/</loc>
   </url>
 </urlset>
